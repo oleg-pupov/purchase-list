@@ -1,0 +1,17 @@
+com/pupov/oleg/myproject/config/SecurityConfig.class
+com/pupov/oleg/myproject/config/RootConfig.class
+com/pupov/oleg/myproject/config/SecurityWebApplicationInitializer.class
+com/pupov/oleg/myproject/dao/UserDaoImpl$1.class
+com/pupov/oleg/myproject/config/WebConfig.class
+com/pupov/oleg/myproject/controllers/Controllers.class
+com/pupov/oleg/myproject/dao/PencilDao.class
+com/pupov/oleg/myproject/config/WebAppInitializer.class
+com/pupov/oleg/myproject/dao/PencilDaoOldImpl.class
+com/pupov/oleg/myproject/config/DatabaseConfig.class
+com/pupov/oleg/myproject/dao/UserDaoImpl.class
+com/pupov/oleg/myproject/dao/Dao.class
+com/pupov/oleg/myproject/controllers/HelloWorldController.class
+com/pupov/oleg/myproject/model/User.class
+com/pupov/oleg/myproject/dao/UserDao.class
+com/pupov/oleg/myproject/dao/UserDaoImpl$2.class
+com/pupov/oleg/myproject/model/Pencil.class
